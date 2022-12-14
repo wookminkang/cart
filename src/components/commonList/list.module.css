@@ -1,0 +1,8 @@
+.item_ul{
+    display: flex;
+    flex-wrap: wrap;
+    gap:50px 30px;
+}
+.item_ul li{
+    width: calc(25% - 30px);
+}

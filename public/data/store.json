@@ -1,0 +1,64 @@
+{
+    "store" : [
+        {
+            "id" : 1,
+            "venue" : 1,
+            "name" : "우리옛돌박물관",
+            "image" : "/images/store/thumb/venue1_1.jpeg",
+            "items" : [
+                {
+                    "idx" : "10",
+                    "name" : "야외 루프탑",
+                    "addr" : "서울 성북구 대사관로13길 66",
+                    "price" : 275000,
+                    "cprice" : "원~ / 1시간당",
+                    "bagie" : "최소 2시간 기준",
+                    "images" : ["/images/list/thumb/1010.jpeg","/images/list/thumb/1011.jpeg"]
+                }
+            ]
+        },
+        {
+            "id" : 2,
+            "venue" : 2,
+            "name" : "감리신학대학교",
+            "image" : "/images/store/thumb/venue2_1.jpeg",
+            "items" : [
+                {
+                    "idx" : "20",
+                    "name" : "웨슬리채플관 대강당",
+                    "addr" : "서울특별시 서대문구 독립문로 56",
+                    "price" : 220000,
+                    "cprice" : "원~ / 1시간당",
+                    "bagie" : "최소 4시간 기준",
+                    "images" : ["/images/list/thumb/2010.jpeg","/images/list/thumb/2011.jpeg"]
+                },
+                {
+                    "idx" : "21",
+                    "name" : "웨슬리채플관 중형 강의실",
+                    "addr" : "서울특별시 서대문구 독립문로 56",
+                    "price" : 22000,
+                    "cprice" : "원~ / 1시간당",
+                    "bagie" : "최소 4시간 기준"
+                }
+            ]
+        },
+        {
+            "id" : 3,
+            "venue" : 3,
+            "name" : "맨하튼다이너",
+            "image" : "/images/store/thumb/venue3_1.jpeg",
+            "items" : [
+                {
+                    "idx" : "30",
+                    "name" : "카페 홀 대관",
+                    "addr" : "경기 평택시 진위면 가곡길 33",
+                    "price" : 100000,
+                    "cprice" : "원~ / 1시간당",
+                    "bagie" : "최소 1시간 기준",
+                    "images" : ["/images/list/thumb/3010.jpeg","/images/list/thumb/3011.jpeg"]
+                }
+            ]
+        }
+
+    ]
+}

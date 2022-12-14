@@ -1,0 +1,89 @@
+{
+    "category": [
+        {
+            "id": 1,
+            "name": "실내체육시설",
+            "venueType" : 1,
+            "image" : "/category/venueType_1.jpeg",
+            "link" : "search/venue?keyword=&page=1&realtime=true&approve=true&groupBuying=false&order=popularity&area=&date=&eventType=&venueType=1&minPrice=0&maxPrice=-1&minPeople=0&maxPeople=-1&equip=&amenity="
+        },
+        {
+            "id": 2,
+            "name": "실외체육시설",
+            "venueType" : 2,
+            "image" : "/category/venueType_2.jpeg",
+            "link" : "search/venue?keyword=&page=1&realtime=true&approve=true&groupBuying=false&order=popularity&area=&date=&eventType=&venueType=2&minPrice=0&maxPrice=-1&minPeople=0&maxPeople=-1&equip=&amenity="
+        },
+        {
+            "id": 3,
+            "name": "강당/세미나실",
+            "venueType" : 3,
+            "image" : "/category/venueType_3.jpeg",
+            "link" : "search/venue?keyword=&page=1&realtime=true&approve=true&groupBuying=false&order=popularity&area=&date=&eventType=&venueType=3&minPrice=0&maxPrice=-1&minPeople=0&maxPeople=-1&equip=&amenity="
+        },
+        {
+            "id": 4,
+            "name": "공연장",
+            "venueType" : 5,
+            "image" : "/category/venueType_5.jpeg",
+            "link" : "search/venue?keyword=&page=1&realtime=true&approve=true&groupBuying=false&order=popularity&area=&date=&eventType=&venueType=5&minPrice=0&maxPrice=-1&minPeople=0&maxPeople=-1&equip=&amenity="
+        },
+        {
+            "id": 5,
+            "name": "강의실",
+            "venueType" : 7,
+            "image" : "/category/venueType_7.jpeg",
+            "link" : "search/venue?keyword=&page=1&realtime=true&approve=true&groupBuying=false&order=popularity&area=&date=&eventType=&venueType=7&minPrice=0&maxPrice=-1&minPeople=0&maxPeople=-1&equip=&amenity="
+        },
+        {
+            "id": 6,
+            "name": "회의실",
+            "venueType" : 8,
+            "image" : "/category/venueType_8.jpeg",
+            "link" : "search/venue?keyword=&page=1&realtime=true&approve=true&groupBuying=false&order=popularity&area=&date=&eventType=&venueType=8&minPrice=0&maxPrice=-1&minPeople=0&maxPeople=-1&equip=&amenity="
+        },
+        {
+            "id": 7,
+            "name": "스튜디오",
+            "venueType" : 16,
+            "image" : "/category/venueType_16.jpeg",
+            "link" : "search/venue?keyword=&page=1&realtime=true&approve=true&groupBuying=false&order=popularity&area=&date=&eventType=&venueType=16&minPrice=0&maxPrice=-1&minPeople=0&maxPeople=-1&equip=&amenity="
+        },
+        {
+            "id": 8,
+            "name": "댄스실",
+            "venueType" : 17,
+            "image" : "/category/venueType_17.jpeg",
+            "link" : "search/venue?keyword=&page=1&realtime=true&approve=true&groupBuying=false&order=popularity&area=&date=&eventType=&venueType=17&minPrice=0&maxPrice=-1&minPeople=0&maxPeople=-1&equip=&amenity="
+        },
+        {
+            "id": 9,
+            "name": "파티룸",
+            "venueType" : 18,
+            "image" : "/category/venueType_18.jpeg",
+            "link" : "search/venue?keyword=&page=1&realtime=true&approve=true&groupBuying=false&order=popularity&area=&date=&eventType=&venueType=18&minPrice=0&maxPrice=-1&minPeople=0&maxPeople=-1&equip=&amenity="
+        },
+        {
+            "id": 10,
+            "name": "공유오피스",
+            "venueType" : 23,
+            "image" : "/category/venueType_23.jpeg",
+            "link" : "search/venue?keyword=&page=1&realtime=true&approve=true&groupBuying=false&order=popularity&area=&date=&eventType=&venueType=23&minPrice=0&maxPrice=-1&minPeople=0&maxPeople=-1&equip=&amenity="
+        },
+        {
+            "id": 11,
+            "name": "스터디카페",
+            "venueType" : 24,
+            "image" : "/category/venueType_24.jpeg",
+            "link" : "search/venue?keyword=&page=1&realtime=true&approve=true&groupBuying=false&order=popularity&area=&date=&eventType=&venueType=24&minPrice=0&maxPrice=-1&minPeople=0&maxPeople=-1&equip=&amenity="
+        },
+        {
+            "id": 12,
+            "name": "음악연습실",
+            "venueType" : 31,
+            "image" : "/category/venueType_31.jpeg",
+            "link" : "search/venue?keyword=&page=1&realtime=true&approve=true&groupBuying=false&order=popularity&area=&date=&eventType=&venueType=31&minPrice=0&maxPrice=-1&minPeople=0&maxPeople=-1&equip=&amenity="
+        }
+        
+    ]
+}
